@@ -3,4 +3,4 @@
 
 オリジナル関数を作成して，Azureにデプロイする．
 
-トリガー：LINE Messesing API
+トリガー：LINE Messaging API
